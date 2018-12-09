@@ -11,6 +11,11 @@ Being interested in Machine Learning and in Python I want to build a project tha
   identify matching numbers
   Report the winning number(s) and value
   
+  Real Python Tutorials
+  https://realpython.com/setting-up-a-simple-ocr-server/
+  Companion Github for above https://github.com/ybur-yug/python_ocr_tutorial
+  
+  
   Fla Lotto has a REST service for game and date
     http://flalottery.com/site/winningNumberSearch?searchTypeIn=date&gameNameIn=MEGAMILLIONS&singleDateIn=12%2F04%2F2018&fromDateIn=&toDateIn=&n1In=&n2In=&n3In=&n4In=&n5In=&mbIn=&submitForm=Submit
   The REST service restirns the winning numbers as images, but the numbers are in the HTML source
